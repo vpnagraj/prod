@@ -1,0 +1,31 @@
+body {
+  background-color: #191919;
+  color: white;
+  font-family: "Ubuntu Mono";
+}
+
+.modal-dialog {
+  color: black;
+}
+
+.btn {
+  background-color: transparent;
+  border: none;
+  font-size: 30px;
+}
+
+.time-btn {
+  border-color: #ccc;
+  color: white;
+
+}
+
+#countdown {
+  font-size: 100px;
+  /*font-size: 3.5vw;*/
+  
+}
+
+.buttons {
+  width: 600px;
+}
